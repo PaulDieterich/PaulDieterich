@@ -8,4 +8,4 @@ Currently Student of Computer Science and Media Applications (B.Sc.)
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PaulDieterich&layout=donut-vertical)](https://github.com/PaulDieterich)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PaulDieterich&layout=donut-vertical&exclude_repo=M5Stack)](https://github.com/PaulDieterich)
