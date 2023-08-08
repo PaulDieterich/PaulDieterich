@@ -8,5 +8,5 @@ Currently Student of Computer Science and Media Applications (B.Sc.)
 
 
 <a href="https://github.com/PaulDieterich/">
-  <img height=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaulDieterich&layout=donut-vertical&theme=radical&hide=C />
+  <img height=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaulDieterich&layout=donut-vertical&theme=radical&hide=c />
 </a>
