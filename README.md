@@ -8,10 +8,10 @@ Currently Student of Computer Science and Media Applications (B.Sc.)
 
 
 <a href="https://github.com/PaulDieterich/">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra](https://github-readme-stats.vercel.app/api/top-langs/?username=PaulDieterich&layout=donut-vertical&exclude_repo=M5Stack,quarkus-quickstarts" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaulDieterich&layout=donut-vertical&exclude_repo=M5Stack,quarkus-quickstarts" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320](https://github-readme-stats.vercel.app/api/top-langs/?username=PaulDieterich&layout=donut-vertical&exclude_repo=M5Stack,quarkus-quickstarts" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaulDieterich&layout=donut-vertical&exclude_repo=M5Stack,quarkus-quickstarts" />
 </a
 
   
