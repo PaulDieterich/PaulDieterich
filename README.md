@@ -6,4 +6,4 @@ Currently Student of Computer Science and Media Applications (B.Sc.)
 📖 Currently reading: "Designing Data-Intensive Applications" & "Implementing Domain-Driven Design" <br>
 ⁉️ Interested in backend and IoT technologies <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PaulDieterich&layout=donut-vertical&hide=c)](https://github.com/PaulDieterich)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PaulDieterich&layout=donut-vertical&hide=c,c++)](https://github.com/PaulDieterich)
